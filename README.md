@@ -41,7 +41,7 @@ You only need **Node.js** to get started!
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/allergy-scanner.git
+   git clone https://github.com/RDeBont/allergy-scanner.git
    cd allergy-scanner
    ```
 
