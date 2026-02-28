@@ -64,7 +64,7 @@ You only need **Node.js** to get started!
 5. **Scan the QR code**  
    Use the Expo Go app on your phone to run the app immediately.
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 | Technology           | Description                                       |
 |----------------------|---------------------------------------------------|
